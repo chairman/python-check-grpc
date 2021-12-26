@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/Users/apple/anaconda3/bin/python3",
+    // "python.pythonPath": "/Users/apple/anaconda3/bin/python3",
+    "python.linting.flake8Enabled": true
+}
