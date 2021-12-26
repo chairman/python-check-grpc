@@ -1,0 +1,35 @@
+2021-12-26 12:40:11,919 - root - INFO - Let's start to log some information.
+2021-12-26 12:40:11,921 - root - ERROR - There are so many errors.
+2021-12-26 12:40:11,922 - root - INFO - [add-naming-instance] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava
+2021-12-26 12:40:11,923 - root - INFO - [get-server] use server:('112.74.87.26', 8848)
+2021-12-26 12:40:11,977 - root - INFO - [add-naming-instance] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava, server response:b'ok'
+2021-12-26 12:40:11,978 - root - INFO - init grpc finish ....
+2021-12-26 12:40:11,998 - root - INFO - Starting server on [::]:5005
+2021-12-26 12:40:16,985 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava
+2021-12-26 12:40:16,987 - root - INFO - [get-server] use server:('112.74.87.26', 8848)
+2021-12-26 12:40:17,018 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava, server response:b'{"clientBeatInterval":5000,"code":10200,"lightBeatEnabled":true}'
+2021-12-26 12:40:17,018 - root - INFO - nacos_send_heartbeat server on 10200
+2021-12-26 12:40:22,023 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava
+2021-12-26 12:40:22,025 - root - INFO - [get-server] use server:('112.74.87.26', 8848)
+2021-12-26 12:40:22,055 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava, server response:b'{"clientBeatInterval":5000,"code":10200,"lightBeatEnabled":true}'
+2021-12-26 12:40:22,056 - root - INFO - nacos_send_heartbeat server on 10200
+2021-12-26 12:40:27,057 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava
+2021-12-26 12:40:27,058 - root - INFO - [get-server] use server:('112.74.87.26', 8848)
+2021-12-26 12:40:27,090 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava, server response:b'{"clientBeatInterval":5000,"code":10200,"lightBeatEnabled":true}'
+2021-12-26 12:40:27,091 - root - INFO - nacos_send_heartbeat server on 10200
+2021-12-26 12:40:32,093 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava
+2021-12-26 12:40:32,094 - root - INFO - [get-server] use server:('112.74.87.26', 8848)
+2021-12-26 12:40:32,125 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava, server response:b'{"clientBeatInterval":5000,"code":10200,"lightBeatEnabled":true}'
+2021-12-26 12:40:32,126 - root - INFO - nacos_send_heartbeat server on 10200
+2021-12-26 12:40:37,129 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava
+2021-12-26 12:40:37,131 - root - INFO - [get-server] use server:('112.74.87.26', 8848)
+2021-12-26 12:40:37,163 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava, server response:b'{"clientBeatInterval":5000,"code":10200,"lightBeatEnabled":true}'
+2021-12-26 12:40:37,166 - root - INFO - nacos_send_heartbeat server on 10200
+2021-12-26 12:40:42,169 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava
+2021-12-26 12:40:42,170 - root - INFO - [get-server] use server:('112.74.87.26', 8848)
+2021-12-26 12:40:42,202 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava, server response:b'{"clientBeatInterval":5000,"code":10200,"lightBeatEnabled":true}'
+2021-12-26 12:40:42,203 - root - INFO - nacos_send_heartbeat server on 10200
+2021-12-26 12:40:47,206 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava
+2021-12-26 12:40:47,206 - root - INFO - [get-server] use server:('112.74.87.26', 8848)
+2021-12-26 12:40:47,240 - root - INFO - [send-heartbeat] ip:0.0.0.0, port:5005, service_name:python-check-grpc, namespace:passjava, server response:b'{"clientBeatInterval":5000,"code":10200,"lightBeatEnabled":true}'
+2021-12-26 12:40:47,241 - root - INFO - nacos_send_heartbeat server on 10200
