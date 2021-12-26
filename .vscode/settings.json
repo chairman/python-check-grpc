@@ -1,5 +1,9 @@
 {
     "python.defaultInterpreterPath": "/Users/apple/anaconda3/bin/python3",
     // "python.pythonPath": "/Users/apple/anaconda3/bin/python3",
-    "python.linting.flake8Enabled": true
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintArgs": [
+        "--disable=W,C,E"
+    ], //忽略指定报错
+   "python.linting.enabled": false //关闭pylint 报错 （不包括语法错误）
 }
