@@ -17,9 +17,9 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='src/api/hello.proto',
   package='',
   syntax='proto3',
-  serialized_options=None,
+  serialized_options=b'\n\023com.cloud.check.rpcP\001',
   create_key=_descriptor._internal_create_key,
-  serialized_pb=b'\n\x13src/api/hello.proto\"\x1c\n\x0cHelloRequest\x12\x0c\n\x04name\x18\x01 \x01(\t\"\x1d\n\nHelloReply\x12\x0f\n\x07message\x18\x01 \x01(\t23\n\x07Greeter\x12(\n\x08SayHello\x12\r.HelloRequest\x1a\x0b.HelloReply\"\x00\x62\x06proto3'
+  serialized_pb=b'\n\x13src/api/hello.proto\"\x1c\n\x0cHelloRequest\x12\x0c\n\x04name\x18\x01 \x01(\t\"\x1d\n\nHelloReply\x12\x0f\n\x07message\x18\x01 \x01(\t23\n\x07Greeter\x12(\n\x08SayHello\x12\r.HelloRequest\x1a\x0b.HelloReply\"\x00\x42\x17\n\x13\x63om.cloud.check.rpcP\x01\x62\x06proto3'
 )
 
 
@@ -107,6 +107,7 @@ HelloReply = _reflection.GeneratedProtocolMessageType('HelloReply', (_message.Me
 _sym_db.RegisterMessage(HelloReply)
 
 
+DESCRIPTOR._options = None
 
 _GREETER = _descriptor.ServiceDescriptor(
   name='Greeter',

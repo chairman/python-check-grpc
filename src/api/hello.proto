@@ -1,4 +1,9 @@
-syntax="proto3";
+
+syntax = "proto3";
+
+option java_package = "com.cloud.check.rpc";
+
+option java_multiple_files = true;
 
 // The greeting service definition.
 service Greeter {
@@ -15,3 +20,4 @@ message HelloRequest {
 message HelloReply {
   string message = 1;
 }
+
